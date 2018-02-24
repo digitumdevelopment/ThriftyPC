@@ -1,0 +1,12 @@
+#navbar {
+    font-family: "Roboto+Condensed"
+}
+#logo {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+
+/*the transformation above doesnt work*/
+#table {
+width: auto;
+}
